@@ -1,0 +1,1 @@
+Korece, Japonca, Çince gibi anadili bize yabancı olan Mangaların direkt olarak görsel üzerindeki yazıdan Türkçe veyahut istenilen dile çevirisini yapmaya aracı olan program. Yazdığım kodların Visual Studio dosyalarını kaybettim ama kodların ana yapısını kurtardım buradan inceleyip edni istediğiniz şekilde örnek alabilirsiniz
